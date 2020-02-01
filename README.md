@@ -5,3 +5,5 @@
 * Add an eventListener for the form to watch for a submit event.
 * After the submit update the HTML to show a 'share link with a friend' text along with a link.
 * Encrypt the message using Base64 Encoding.
+* Create a URL from the message and auto-select for easy copy thereof.
+* When user goes to the link show the decoded message.
